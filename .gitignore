@@ -1,0 +1,41 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.dbmdl
+*.bak
+*.tmp
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# EF Core Migrations Snapshots (optional)
+Migrations/*Snapshot.cs
+
+# Generated files
+ScoutingApi.GeneratedMSBuildEditorConfig.editorconfig
